@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a current 3rd year computer science student at **Worcester Polytechnic Institute**. I’m passionate about building technology that makes an impact at the intersection of **business, tech, and AI**! 
+I'm a current 3rd year computer science student at **Worcester Polytechnic Institute**. 
+I’m passionate about building technology that makes an impact at the intersection of **business, tech, and AI**! 
 
 🔭 I’m currently working on a time-series (RNN model) prediction with a team. 
 🌱 I’m currently learning Machine Learning and Artificial Intelligience. 
