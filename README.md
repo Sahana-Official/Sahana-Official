@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Sahana!
 
 <!--
 **Sahana-Official/Sahana-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a current 3rd year computer science student at **Worcester Polytechnic Institute**. I’m passionate about building technology that makes an impact at the intersection of **business, tech, and AI**! 
+
+🔭 I’m currently working on a time-series (RNN model) prediction with a team. 
+🌱 I’m currently learning Machine Learning and Artificial Intelligience. 
+📫 How to reach me: sgokulakrishnan@wpi.edu
+
+### Tech Stack
+**Languages:** Python, C, C++, Java, JavaScript, TypeScript
+**Framework:** React, Node.js
+**Tools:** Git, GitHub, VS Code
+
+### Extracurriculars And Interests: 
+
+**Women in Computer Science (WiCS)** – Events Coordinator, where I pursue my passion for **empowering women in STEM** and building an inclusive tech community.  
+**Enactus** – Public Relations Chair, where I lead outreach and communications to promote entrepreneurial projects with social impact. 
+
+### Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/sahanagokul/))
+
+
