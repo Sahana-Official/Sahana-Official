@@ -22,17 +22,17 @@ I’m passionate about building technology that makes an impact at the intersect
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligience. 
 - 📫 How to reach me: sgokulakrishnan@wpi.edu
 
-### Tech Stack
+## Tech Stack
 **Languages:** Python, C, C++, Java, JavaScript, TypeScript
 **Framework:** React, Node.js
 **Tools:** Git, GitHub, VS Code
 
-### Extracurriculars And Interests: 
+## Extracurriculars And Interests: 
 
 **Women in Computer Science (WiCS)** – Events Coordinator, where I pursue my passion for **empowering women in STEM** and building an inclusive tech community.  
 **Enactus** – Public Relations Chair, where I lead outreach and communications to promote entrepreneurial projects with social impact. 
 
-### Connect with me!
+## Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/sahanagokul/))
 
 
